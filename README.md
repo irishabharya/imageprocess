@@ -1,1 +1,1 @@
-# imageprocess
+Image processing using OpenCV
